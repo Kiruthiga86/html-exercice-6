@@ -35,7 +35,7 @@
     height: 50px;
 }
 #rectangle7{
-    
+    float: left;
     background-color: rgb(51, 143, 134);
     width: 20%;
     height: 50px;
